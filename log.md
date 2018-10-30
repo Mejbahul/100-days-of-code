@@ -2,8 +2,8 @@
 
 ### Day 0: October 30, 2018 
 
-**Today's Progress:** 
+**Today's Progress:** Started studying some data communication topics. 
 
-**Thoughts:** 
+**Thoughts:** it's quite boring but i need to know this stuffs.
 
-**Link to work:** 
+**Link to work:** Not available yet. Maybe soon.
