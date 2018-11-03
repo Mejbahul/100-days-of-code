@@ -16,3 +16,12 @@
 **Thoughts:** This aren't very complex but too much stuff to remember.
 
 **Link to work:** Not available yet. Maybe soon.
+
+
+### Day 2: November 3, 2018 
+
+**Today's Progress:** Studied ARP, DNS, DHCP. 
+
+**Thoughts:** I came accross this terms quite a lot. It feeels good to know what this actually are.
+
+**Link to work:** Not available yet. Maybe soon.
